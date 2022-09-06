@@ -1,10 +1,10 @@
-Hi 👋 My name is Jasen Ratnam
+Hi there👋 I am Jasen Ratnam
 =============================
 
-Computer Engineer BE
+Computer Engineering Graduate
 --------------------
 
-I've been learning how to code for the past 7 years and have obtained a bachelor's degree in Computer Engineering at Concordia University
+I am Jasen Ratnam from Montreal, Canada who recently graduated from Concordia University with a Engineering Bachelor's degree with a major in Computer Engineering. I have achieved fundamental knowledge of software design, development, testing and debugging skills and am looking for a challenging role to utilize my broad education background with skills to thrive as an entry-level engineer and enhance my knowledge about new and emerging trends. Looking forward to work with you in a project.
 
 * 🌍  I'm based in Montreal, Canada
 * ✉️  You can contact me at [jasenratnam@hotmail.com](mailto:jasenratnam@hotmail.com)
