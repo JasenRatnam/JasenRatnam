@@ -41,7 +41,9 @@ I've been learning how to code for the past 7 years and have obtained a bachelor
 
 <a href="http://www.github.com/JasenRatnam"><img src="https://github-readme-stats.vercel.app/api?username=JasenRatnam&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="JasenRatnam's GitHub stats" /></a>
 
-<a href="http://www.github.com/JasenRatnam"><img src="https://activity-graph.herokuapp.com/graph?username=JasenRatnam&bg_color=181824&color=ffffff&line=ef4444&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/JasenRatnam"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasenratnam&show_icons=true&theme=dracula&title_color=ef4444&text_color=ffffff&bg_color=181824&locale=en&layout=compact" alt="GitHub Top Languages" /></a>
+
+<a href="http://www.github.com/JasenRatnam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasenratnam&theme=dark" alt="GitHub Commits Streaks" /></a>
 
 ### Support Me
 
